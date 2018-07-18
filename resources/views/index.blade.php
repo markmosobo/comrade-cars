@@ -75,11 +75,11 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6">
-                                <div class="pickup-form">
-                                    <form action="#">
-                                        <img src="assets/img/faq2.png" class="img-fluid" alt="">
-                                    </form>
-                                </div>
+
+
+                                        <img src="assets/img/faq4.jpeg" class="img-fluid" alt="">
+
+
                             </div>
                             <div class="col-lg-6">
                                 <div class="hero-area text-left">
@@ -155,6 +155,13 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6">
+
+
+                                <img src="assets/img/faq.png" class="img-fluid" alt="">
+
+
+                            </div>
+                            <div class="col-lg-6">
                                 <div class="hero-area text-left">
                                     <div class="hero-text">
                                         <h2>24/7 customer care<br>ready to offer support</h2>
@@ -165,13 +172,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6">
-                                <div class="pickup-form">
-                                    <form action="#">
-                                        <img src="assets/img/faq.png" class="img-fluid" alt="">
-                                    </form>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
                 </div>
