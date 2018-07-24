@@ -120,7 +120,7 @@ label {
     height: 100%;
     top: 0;
     left: 0;
-    background: url(/assets/img/holiday-bg.jpg);
+    /*background: url(/assets/img/holiday-bg.jpg);*/
     opacity: 0.8;
 }
 .carspace-overlay1{
@@ -129,7 +129,7 @@ label {
     height: 100%;
     top: 0;
     left: 0;
-    background: url(/assets/img/index-bg.jpg);
+    /*background: url(/assets/img/index-bg.jpg);*/
     opacity: 0.8;
 }
 .carspace-overlay2{

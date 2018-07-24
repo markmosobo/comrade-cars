@@ -71,7 +71,7 @@
         <div class="row">
             <div class="single-slide owl-carousel">
                 <div class="slider-1">
-                    <div class="carspace-overlay"></div>
+                    <div class="carspace-overlay" style="background: url({{ url('assets/img/holiday-bg.jpg') }})"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6">
@@ -97,7 +97,7 @@
                     </div>
                 </div>
                 <div class="slider-2">
-                    <div class="carspace-overlay1"></div>
+                    <div class="carspace-overlay1" style="background: url({{ url('assets/img/index-bg.jpg') }})"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6">
