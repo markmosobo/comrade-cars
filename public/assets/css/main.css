@@ -138,7 +138,7 @@ label {
     height: 100%;
     top: 0;
     left: 0;
-    background: url(/assets/img/slider-1.jpg);
+    /*background: url(/assets/img/slider-1.jpg);*/
     opacity: 0.8;
 }
 

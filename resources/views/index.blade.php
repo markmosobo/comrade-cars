@@ -151,7 +151,7 @@
                     </div>
                 </div>
                 <div class="slider-1">
-                    <div class="carspace-overlay2"></div>
+                    <div class="carspace-overlay2" style="background: url({{ url('assets/img/slider-1.jpg') }})"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6">
